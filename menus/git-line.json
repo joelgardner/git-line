@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle git-line",
+        "command": "git-line:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "git-line",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "git-line:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
