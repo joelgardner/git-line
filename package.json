@@ -3,19 +3,16 @@
   "main": "./lib/git-line",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": ["git-blame", "git-line", "line"],
   "activationCommands": {
     "atom-workspace": "git-line:toggle"
   },
-  "repository": "https://github.com/atom/git-line",
+  "repository": "https://github.com/joelgardner/git-line",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "moment": "^2.14.1"
-  },
-  "styleSheets": [
-    "git-line.atom-text-editor.less"
-  ]
+  }
 }
