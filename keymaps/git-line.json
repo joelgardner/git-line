@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "git-line:toggle"
+    "ctrl-alt-cmd-b": "git-line:toggle"
   }
 }
