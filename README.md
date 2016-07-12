@@ -9,6 +9,7 @@ Use the keyboard combo `ctrl+alt+cmd+b` to activate a tooltip anchored on the li
 - When the cursored line is scrolled offscreen (i.e., not visible), no tooltip will appear.  Future plans to fix could be to place the tooltip in a position with its anchor-arrow indicating the line is above or below the visible lines.
 
 ### Demo (TODO: convert this to a gif and put it here)
+![ctrl+alt+cmd+b](http://i.imgur.com/UA0izUN.gifv)
 [View demo video](https://www.youtube.com/watch?v=UIL7kGqO0ZM) (turning on CC is helpful)
 
 #### Atom package
