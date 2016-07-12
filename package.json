@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "git-line:toggle"
   },
-  "repository": "https://github.com/joelgardner/git-line",
+  "repository": "https://github.com/joelgardner/git-line.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
