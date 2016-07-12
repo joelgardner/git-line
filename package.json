@@ -1,8 +1,8 @@
 {
   "name": "git-line",
   "main": "./lib/git-line",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Displays a tooltip with git-blame information about the currently selected line.",
   "keywords": ["git-blame", "git-line", "line"],
   "activationCommands": {
     "atom-workspace": "git-line:toggle"
