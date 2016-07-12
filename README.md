@@ -11,3 +11,6 @@ Use the keyboard combo `ctrl+alt+cmd+b` to activate a tooltip anchored on the li
 ### Demo
 [View demo video](https://www.youtube.com/watch?v=UIL7kGqO0ZM)
 TODO: convert this to a usable gif and put it here.
+
+#### Atom package
+[https://atom.io/packages/git-line](https://atom.io/packages/git-line)
