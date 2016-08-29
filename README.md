@@ -16,8 +16,9 @@ Use the keyboard combo `ctrl+alt+cmd+b` to activate a tooltip anchored on the li
 [https://atom.io/packages/git-line](https://atom.io/packages/git-line)
 
 #### Changes
+- 0.5.0
+ - Fixed issue for Bitbucket repos where the host text is "Github", and opens an incorrect commit URL on Bitbucket
 - 0.4.0
  - Fixed bug that displayed git error when a file was untracked by git
  - Fixed bug with ssh-cloned repos where Github link was unresponsive
  - Fixed bug causing error when the project is not a git repo
- 
