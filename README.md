@@ -1,3 +1,6 @@
+## No longer maintained (2020-02-13)
+I have unfortunately moved on from Atom to VSCode and other responsibilities prevent me from properly maintaining this repo.  That said, I will happily **accept PRs** for issues that you encounter.  
+
 # git-line package
 
 An Atom package that displays `git blame` information about the currently selected line.
